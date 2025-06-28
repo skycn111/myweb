@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>npc_4005_0_0_0_0000.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{85,118}}</string>
+        <key>offset</key>
+        <string>{-12,97}</string>
+        <key>rotated</key>
+        <false />
+        <key>sourceColorRect</key>
+        <string>{{0,0},{85,118}}</string>
+        <key>sourceSize</key>
+        <string>{85,118}</string>
+      </dict>
+      <key>npc_4005_0_0_0_0001.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,120},{83,118}}</string>
+        <key>offset</key>
+        <string>{-10,97}</string>
+        <key>rotated</key>
+        <false />
+        <key>sourceColorRect</key>
+        <string>{{0,0},{83,118}}</string>
+        <key>sourceSize</key>
+        <string>{83,118}</string>
+      </dict>
+      <key>npc_4005_0_0_0_0002.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{85,120},{84,118}}</string>
+        <key>offset</key>
+        <string>{-11,97}</string>
+        <key>rotated</key>
+        <false />
+        <key>sourceColorRect</key>
+        <string>{{0,0},{84,118}}</string>
+        <key>sourceSize</key>
+        <string>{84,118}</string>
+      </dict>
+      <key>npc_4005_0_0_0_0003.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{171,120},{85,117}}</string>
+        <key>offset</key>
+        <string>{-12,96}</string>
+        <key>rotated</key>
+        <false />
+        <key>sourceColorRect</key>
+        <string>{{0,0},{85,117}}</string>
+        <key>sourceSize</key>
+        <string>{85,117}</string>
+      </dict>
+      <key>npc_4005_0_0_0_0004.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{175,0},{84,117}}</string>
+        <key>offset</key>
+        <string>{-11,96}</string>
+        <key>rotated</key>
+        <false />
+        <key>sourceColorRect</key>
+        <string>{{0,0},{84,117}}</string>
+        <key>sourceSize</key>
+        <string>{84,117}</string>
+      </dict>
+      <key>npc_4005_0_0_0_0005.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{87,0},{86,118}}</string>
+        <key>offset</key>
+        <string>{-13,97}</string>
+        <key>rotated</key>
+        <false />
+        <key>sourceColorRect</key>
+        <string>{{0,0},{86,118}}</string>
+        <key>sourceSize</key>
+        <string>{86,118}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>realTextureFileName</key>
+      <string>npc_4005_0_0.png</string>
+      <key>size</key>
+      <string>{512,256}</string>
+      <key>textureFileName</key>
+      <string>npc_4005_0_0.png</string>
+    </dict>
+  </dict>
+</plist>
